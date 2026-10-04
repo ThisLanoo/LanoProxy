@@ -1,5 +1,5 @@
 UpdateMsg|`2New `9Proxy Version Is Released, Update Proxy To `2Newest`` Version To Play!````
-Version|OLD_VERSION_CLOSED
+Version|16.6
 
 
 
@@ -28,7 +28,7 @@ DiscordID|1210909836288729099
 TemporaryUse|0
 ItemsBackup|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/android_items.dat
 ItemDataBackup2|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/android_items.dat
-RudysURL|
+RudysURL|none
 
 AddModsList|67302|`#@Miu|
 AddModsList|36299549|`#@Moniuet|
@@ -50,16 +50,16 @@ meta|%s
 RTENDMARKERBS1001
 server_data_End
 
-LoginMessage1|
-LoginMessage4|
-LoginMessage5|
+LoginMessage1| 
+LoginMessage4| 
+LoginMessage5| 
 
-LoginMessage2|
+LoginMessage2| 
 LoginMessage3|`2Logging In...
 UpdateMessage|`2New `9Proxy Version Is Released, Use `2Newest`` Version To Play!````
 ProxyVersion|16.6
 
-PostFields|
+PostFields| 
 
 CsnLink|/rud|`9(Warp To Newest `8RUDYS`` Casino Link)||https://discordapp.com/api/webhooks/1365693668962472047/XDEDNIzMEIqvzFUo2J3JiPhXgrWGgYV2JzaLNX84cqtfPMjcXEohRuVSBGBww-DK1kQN/messages/1365693875707969558|1|json|content|
 CsnLink|/yt|`9(Warp To Newest `8TEAMYT`` Casino Link)||https://discordapp.com/api/webhooks/1358542564218896625/PXZEjxly_FSdB1ORl2_UlHeQg8SrXuB5UAfqoqyMsSEw7-X2LGjniIqoD9MvfHcl98F-/messages/1358545627713241270|1|json|content|
